@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaia Systems Inc.</title>
-    <link>gaiasystemsinc.com/</link>
+    <link>gaiasys.github.io/</link>
     <description>Recent content on Gaia Systems Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
-	<atom:link href="gaiasystemsinc.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="gaiasys.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artesian House Case Study</title>
-      <link>gaiasystemsinc.com/blog/artesian_house/</link>
+      <link>gaiasys.github.io/blog/artesian_house/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>gaiasystemsinc.com/blog/artesian_house/</guid>
+      <guid>gaiasys.github.io/blog/artesian_house/</guid>
       <description>Artesian House, an LLC located in Stuart, Florida was losing about $10,000 dollars a year due to fees when collecting payments. After implementing one of our products (my halfway) this expense went down to zero. As another value-add, we simplified their client onboarding process and helped them become 100% paperless. This equated to more cost savings due to expenses and employee time.</description>
     </item>
     
