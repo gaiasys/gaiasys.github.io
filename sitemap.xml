@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>gaiasys.github.io/blog/artesian_house/</loc>
+    <loc>gaiasystemsinc.com/blog/artesian_house/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>gaiasys.github.io/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>gaiasys.github.io/</loc>
+    <loc>gaiasystemsinc.com/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>gaiasys.github.io/categories/</loc>
+    <loc>gaiasystemsinc.com/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>gaiasys.github.io/tags/</loc>
+    <loc>gaiasystemsinc.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>gaiasystemsinc.com/tags/</loc>
     <priority>0</priority>
   </url>
   
