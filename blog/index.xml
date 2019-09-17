@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Gaia Systems Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2019 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="https://gaiasys.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Duke University Case Study</title>
+      <link>https://gaiasys.github.io/blog/duke/</link>
+      <pubDate>Tue, 17 Sep 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://gaiasys.github.io/blog/duke/</guid>
+      <description>Duke University found us on Slack when they were experiencing growth in one of their research departments. The code base was very well organized but extremely complicated. We were tasked with implementing the business logic for multiple studies as well as making improvements to performance and general maintenance of a text-message based application that helped researches study obesity and send/ gather responses from participants.</description>
+    </item>
     
     <item>
       <title>First Secured Administrators Case Study</title>
