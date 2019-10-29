@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>How to fix performance issues with Ruby on Rails</title>
+      <link>https://gaiasys.github.io/blog/optimizing_active_record_queries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaiasys.github.io/blog/optimizing_active_record_queries/</guid>
+      <description>The most common problem that Ruby on Rails has with performance is a mis-use of the ORM layer (Active Record). People will call dependent objects in a loop not realizing what is happening between the application and the database. If you want a performant application instead of thinking only about your application code it is important to understand how what you are doing in the application layer is interacting with the database.</description>
+    </item>
+    
+    <item>
       <title>Software Update For Temple</title>
       <link>https://gaiasys.github.io/blog/temple_gis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
